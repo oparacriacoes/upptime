@@ -4,19 +4,19 @@
     "url": "https://www.ajor.org.br",
     "icon": "https://icons.duckduckgo.com/ip3/www.ajor.org.br.ico",
     "slug": "ajor",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 772,
-    "timeDay": 283,
-    "timeWeek": 777,
-    "timeMonth": 1169,
-    "timeYear": 772,
+    "time": 786,
+    "timeDay": 970,
+    "timeWeek": 951,
+    "timeMonth": 1205,
+    "timeYear": 786,
     "dailyMinutesDown": {
-      "2024-02-02": 0
+      "2024-02-02": 7
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://sumauma.com",
     "icon": "https://icons.duckduckgo.com/ip3/sumauma.com.ico",
     "slug": "sumauma",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 434,
-    "timeDay": 121,
-    "timeWeek": 387,
-    "timeMonth": 763,
-    "timeYear": 434,
+    "time": 435,
+    "timeDay": 241,
+    "timeWeek": 398,
+    "timeMonth": 755,
+    "timeYear": 435,
     "dailyMinutesDown": {
-      "2024-02-02": 0
+      "2024-02-02": 8
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://ojoioeotrigo.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/ojoioeotrigo.com.br.ico",
     "slug": "o-joio-e-o-trigo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 204,
-    "timeWeek": 311,
-    "timeMonth": 338,
-    "timeYear": 329,
+    "time": 331,
+    "timeDay": 308,
+    "timeWeek": 333,
+    "timeMonth": 343,
+    "timeYear": 331,
     "dailyMinutesDown": {
-      "2024-02-02": 0
+      "2024-02-02": 8
     }
   }
 ]
