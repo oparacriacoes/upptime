@@ -4,18 +4,20 @@
     "url": "https://www.ajor.org.br",
     "icon": "https://icons.duckduckgo.com/ip3/www.ajor.org.br.ico",
     "slug": "ajor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 777,
-    "timeDay": 386,
-    "timeWeek": 863,
-    "timeMonth": 1201,
-    "timeYear": 777,
-    "dailyMinutesDown": {}
+    "time": 772,
+    "timeDay": 283,
+    "timeWeek": 777,
+    "timeMonth": 1169,
+    "timeYear": 772,
+    "dailyMinutesDown": {
+      "2024-02-02": 0
+    }
   },
   {
     "name": "Ponte",
@@ -40,18 +42,20 @@
     "url": "https://sumauma.com",
     "icon": "https://icons.duckduckgo.com/ip3/sumauma.com.ico",
     "slug": "sumauma",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 167,
-    "timeWeek": 432,
-    "timeMonth": 785,
-    "timeYear": 438,
-    "dailyMinutesDown": {}
+    "time": 434,
+    "timeDay": 121,
+    "timeWeek": 387,
+    "timeMonth": 763,
+    "timeYear": 434,
+    "dailyMinutesDown": {
+      "2024-02-02": 0
+    }
   },
   {
     "name": "Agenda Preta",
@@ -78,17 +82,19 @@
     "url": "https://ojoioeotrigo.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/ojoioeotrigo.com.br.ico",
     "slug": "o-joio-e-o-trigo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 229,
-    "timeWeek": 329,
-    "timeMonth": 343,
-    "timeYear": 330,
-    "dailyMinutesDown": {}
+    "time": 329,
+    "timeDay": 204,
+    "timeWeek": 311,
+    "timeMonth": 338,
+    "timeYear": 329,
+    "dailyMinutesDown": {
+      "2024-02-02": 0
+    }
   }
 ]
