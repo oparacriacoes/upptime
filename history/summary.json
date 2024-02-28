@@ -6,15 +6,15 @@
     "slug": "ajor",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.46%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 842,
-    "timeDay": 5098,
-    "timeWeek": 1964,
+    "time": 839,
+    "timeDay": 402,
+    "timeWeek": 1965,
     "timeMonth": 993,
-    "timeYear": 842,
+    "timeYear": 839,
     "dailyMinutesDown": {
       "2024-02-26": 8,
       "2024-02-02": 7
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 128,
-    "timeWeek": 214,
-    "timeMonth": 225,
-    "timeYear": 195,
+    "time": 194,
+    "timeDay": 69,
+    "timeWeek": 178,
+    "timeMonth": 218,
+    "timeYear": 194,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 411,
-    "timeDay": 499,
-    "timeWeek": 410,
-    "timeMonth": 327,
-    "timeYear": 411,
+    "time": 409,
+    "timeDay": 165,
+    "timeWeek": 417,
+    "timeMonth": 329,
+    "timeYear": 409,
     "dailyMinutesDown": {
       "2024-02-02": 8
     }
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 311,
-    "timeDay": 237,
-    "timeWeek": 156,
-    "timeMonth": 214,
-    "timeYear": 311,
+    "time": 310,
+    "timeDay": 142,
+    "timeWeek": 152,
+    "timeMonth": 204,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2023-10-28": 7
     }
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 327,
-    "timeDay": 530,
-    "timeWeek": 245,
-    "timeMonth": 313,
-    "timeYear": 327,
+    "time": 326,
+    "timeDay": 165,
+    "timeWeek": 240,
+    "timeMonth": 311,
+    "timeYear": 326,
     "dailyMinutesDown": {
       "2024-02-15": 13,
       "2024-02-02": 8
